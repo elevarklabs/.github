@@ -19,20 +19,14 @@ Access to a powerful model isn't the same as knowing what to build, how to deplo
 
 | Division | Focus |
 | --- | --- |
-| 🤖 **Agentic** | Systems that carry context, use tools, coordinate work, and extend human capability, with accountability kept intact. |
-| 🧱 **Platforms** | Applications, workflows, and products that turn AI capability into durable, useful software. |
-| 🧭 **Advisory** | Strategy tied to prioritization, implementation, adoption, and measurement. |
-| 🔬 **Research** | Practical, evidence-based work that separates capability from marketing. |
-| 📡 **Insights** | Clear reads on launches, claims, and research, so the signal stands out from the noise. |
-| 🎓 **Academy** | Learning, coaching, and responsible-use practice for directing AI well. |
+| **Agentic** | Systems that carry context, use tools, coordinate work, and extend human capability, with accountability kept intact. |
+| **Platforms** | Applications, workflows, and products that turn AI capability into durable, useful software. |
+| **Advisory** | Strategy tied to prioritization, implementation, adoption, and measurement. |
+| **Research** | Practical, evidence-based work that separates capability from marketing. |
+| **Insights** | Clear reads on launches, claims, and research, so the signal stands out from the noise. |
+| **Academy** | Learning, coaching, and responsible-use practice for directing AI well. |
 
 ### How we work
-
-```
- Understand the work  →  Build for use  →  Deploy and observe  →  Enable the people
-        ↑                                                                 │
-        └────────────────────────── learn & iterate ──────────────────────┘
-```
 
 1. **Understand the work.** Find where a real capability gap exists before reaching for a model.
 2. **Build for use.** Turn a promising idea into something people can test, adopt, and improve.
